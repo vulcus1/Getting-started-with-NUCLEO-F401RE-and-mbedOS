@@ -6,8 +6,8 @@ Each project is an example on how to build a system based on NucleoF401RE, inter
 
 ## Reference Toolchain
 A reference toolchain will be provided together with a step by step user guide.  
-[ToolchainSetupProcedure_EN](https://github.com/STMicroelectronics/Getting-started-with-NUCLEO-F401RE-and-mbedOS/blob/master/Toolchain/ToolchainSetupProcedure_EN.docx)  
-[ToolchainSetupProcedure_IT](https://github.com/STMicroelectronics/Getting-started-with-NUCLEO-F401RE-and-mbedOS/blob/master/Toolchain/ToolchainSetupProcedure_IT.docx)  
+[ToolchainSetupProcedure_EN](https://github.com/STMicroelectronics/Getting-started-with-NUCLEO-F401RE-and-mbedOS/blob/master/Toolchain/ToolchainSetupProcedure_EN.pdf)  
+[ToolchainSetupProcedure_IT](https://github.com/STMicroelectronics/Getting-started-with-NUCLEO-F401RE-and-mbedOS/blob/master/Toolchain/ToolchainSetupProcedure_IT.pdf)  
   
 ### Downloading instructions
 All the setup files are available for free download at the following link
